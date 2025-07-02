@@ -103,8 +103,6 @@ The program accepts different fractal types as command-line arguments:
 | Key | Action |
 |-----|--------|
 | `↑ ↓ ← →` | Pan the view |
-| `+ (Numpad)` | Zoom in |
-| `- (Numpad)` | Zoom out |
 | `Mouse Scroll` | Zoom in/out at cursor position |
 | `C` | Shift color palette |
 | `ESC` | Exit program |
